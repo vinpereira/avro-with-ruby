@@ -1,0 +1,5 @@
+### AVRO File ###
+*.avro
+
+### JAR File ###
+*.jar
